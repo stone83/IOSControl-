@@ -1,0 +1,9 @@
+platform :ios, '10.0'
+target 'TApp' do
+pod 'Masonry'
+pod 'AFNetworking'
+pod 'HMSegmentedControl'
+pod 'FSScrollContentView'
+pod 'MJRefresh'
+pod 'CYLTabBarController'
+end

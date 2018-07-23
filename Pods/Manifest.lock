@@ -1,0 +1,41 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - CYLTabBarController (1.17.13)
+  - FSScrollContentView (1.0.9)
+  - HMSegmentedControl (1.5.5)
+  - Masonry (1.1.0)
+  - MJRefresh (3.1.15.3)
+
+DEPENDENCIES:
+  - AFNetworking
+  - CYLTabBarController
+  - FSScrollContentView
+  - HMSegmentedControl
+  - Masonry
+  - MJRefresh
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  CYLTabBarController: 2054edbec171841dd8de0286ab206d99655d970f
+  FSScrollContentView: 2fdda268eb8f1a1d4aefd470bf70702dbc346d50
+  HMSegmentedControl: f514c6dad47aa3065e0ed2e8046b73efc71221b9
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  MJRefresh: b48380ae2b927b46c4ef000de9adb8dc748e1df7
+
+PODFILE CHECKSUM: db3dd44443a327d210a3cc6877a2ff2d5c242b86
+
+COCOAPODS: 1.4.0
